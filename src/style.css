@@ -67,13 +67,14 @@ main {
 }
 
 .weather-app-temperature-icon {
-  font-size: 35px;
-  margin-top: 22px;
+  height: 88px;
+  width: 88px;
 }
 
 .weather-app-temperature-value {
   color: rgb(216, 28, 100);
   font-size: 88px;
+  line-height: 88px;
   margin-left: 5px;
 }
 
